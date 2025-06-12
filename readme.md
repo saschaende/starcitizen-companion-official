@@ -10,12 +10,6 @@ zu behalten.
 
 ## Aktuelle Downloads
 
-### Star Citizen Companion 0.4.0 (2025-06-12)
-
-Download: [StarCitizenCompanion.0.4.0.exe](https://github.com/saschaende/starcitizen-companion-official/releases/download/0.4.0/StarCitizenCompanion.0.4.0.exe)
-
-- Neu: Tools ->Anti-Disconnect
-
 ### Star Citizen Companion 0.3.0 (2025-06-11)
 
 Download: [StarCitizenCompanion.0.3.0.exe](https://github.com/saschaende/starcitizen-companion-official/releases/download/0.3.0/StarCitizenCompanion.0.3.0.exe)
